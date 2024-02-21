@@ -1,5 +1,7 @@
 Raccolta personale di appunti ed esercizi svolti per preparazione esame "Basi di dati"
 
+[appunti personali: esercizi per preparazione esame scritto](https://github.com/CarloDaRomadev/Database/blob/main/quaderno%20esercizi/Esercizi_annotato.pdf)
+
 [appunti personali: Teoria della normalizzazione](https://github.com/CarloDaRomadev/Database/files/14351193/appunti.teoria.della.normalizzazione.pdf)
 
 [appunti personali: Organizzazione fisica](https://github.com/CarloDaRomadev/Database/files/14363192/appunti.Organizzazione.fisica.pdf)
