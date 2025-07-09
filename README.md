@@ -20,7 +20,7 @@
 
 ### Teoria della Normalizzazione
 📄 [Appunti – Normalizzazione (PDF)](https://github.com/CarloDaRomadev/Database/files/14351193/appunti.teoria.della.normalizzazione.pdf)  
-> Spiegazione chiara e schematica delle **forme normali** (da 1NF a 5NF), **dipendenze funzionali**, **violazioni** e **casi di esempio**.
+> Spiegazione schematica delle **forme normali**, **dipendenze funzionali**, **violazioni** e **casi di esempio**.
 
 ---
 
