@@ -35,3 +35,5 @@
 > Introduzione ai **problemi di concorrenza**, **schedulazione**, **serializzabilità**, e tecniche come **lock-based protocol** e **timestamp ordering**.
 
 ---
+
+<sub><i>last update 10/07/2025</i></sub>
